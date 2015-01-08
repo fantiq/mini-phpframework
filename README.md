@@ -1,0 +1,2 @@
+# mini-phpframework
+这是一个简单的php开发框架基于mvc设计模式，核心文件build成一个文件，其他驱动基于lib
