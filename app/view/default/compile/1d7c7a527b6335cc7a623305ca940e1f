@@ -1,0 +1,10 @@
+<?php  echo time();?>
+hello <?php echo $this->tpl_vars['user'];?>
+<ul>
+	<?php foreach($this->tpl_vars['data'] as $d){?>
+		<li><?php echo $d['user'];?></li>
+	<?php }?>
+</ul>
+
+<?php foreach($this->tpl_vars['data'] as $key=>$val){?>
+<?php }?>
